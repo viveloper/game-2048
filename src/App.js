@@ -26,10 +26,6 @@ function App() {
 
   const handleNewGameClick = (e) => {};
 
-  const createInitCards = () => {};
-
-  const createNewCard = () => {};
-
   return (
     <div className="container">
       <header>
